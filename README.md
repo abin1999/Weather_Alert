@@ -13,4 +13,4 @@ In this project, I've made a weather alert application using Streamlit and reque
 
 (2) Install requests library (pip install requests)
 
-(3) To run the app cd to the file location and use run command (stramlit run weather.py)
+(3) To run the app cd to the file location and use run command (streamlit run weather.py)
